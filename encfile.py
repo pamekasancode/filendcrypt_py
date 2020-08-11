@@ -1,3 +1,4 @@
+# created by pamekasancode
 import os, sys
 import codecs, base64, marshal, zlib
 m = "\033[91m"
