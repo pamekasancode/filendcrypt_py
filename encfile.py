@@ -17,7 +17,7 @@ def banner():
  ) /     _(_(/__(/_/ (_(_(_(__/ (_(_/_ /_)_(__
 (_/                              .-/.-/
                                 (_/(_/
-{p}Author	: Firmansyahken
+{p}Author	: Pamekasancode
 """)
 banner()
 def help():
